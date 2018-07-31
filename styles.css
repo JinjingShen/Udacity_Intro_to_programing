@@ -1,0 +1,64 @@
+.cardbox{
+	    border:1px solid #cecccc;
+	    border-image:url(frame.jpg) 400 round;
+	    border-image-width: 40px;
+	    box-shadow:10px 10px #cecccc;
+	    width: 340px;
+	    padding:10px;
+	    margin-left:10px;
+	    padding-bottom: 15px;
+	    justify-content: center;	  
+}
+
+.box{
+	  border:1px solid #cecccc;
+	  width: 290px;
+	  padding-left:10px;
+	  padding-right:10px;
+	  margin-left:15px;
+	  margin-bottom: 5px;	  
+}
+
+.interesting{
+		     font-style: italic;
+		     word-spacing: 1px;
+}
+
+.Weight{
+        position: relative;
+        padding-left: 95px;
+}
+
+p{
+	padding-right:5px;
+	word-spacing: 3px;
+}
+
+span{
+	  font-weight: bold;
+	  margin:0;
+	  vertical-align: top;
+}	 
+
+ul{
+	margin:0;
+    padding:0;
+	list-style-type:none;	
+}
+
+h3{
+	border:1px;
+	width:300px;
+	margin-top:10px;
+	margin-bottom: 5px;
+	padding-left:15px;
+	padding-right:15px;
+}
+
+img{
+	border: 5px solid #cecccc ;
+	max-width: 300px;
+    width: 100%;
+    margin-bottom: 5px;
+    margin-left: 15px;
+}
